@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext,latin);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
+@import 'https://fonts.googleapis.com/css?family=Rasa:500,600&subset=latin-ext';
 html {
   font-family: 'Amatic SC', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -269,7 +270,7 @@ body {
   background-size: 100px auto;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Parisienne", sans-serif;
+  font-family: "Rasa", sans-serif;
   color: #494751;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
