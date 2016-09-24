@@ -299,7 +299,7 @@ body {
 
 @media (max-width: 1200px) {
   body {
-    background-image: url(..//img/bg.png);
+    background-image: url(..//img/bg2.png);
     background-repeat: repeat;
     background-size: 120px auto; }
   
@@ -327,7 +327,7 @@ body {
 
 @media (max-width: 360px) {
   body {
-    background-image: url(..//img/bg.png);
+    background-image: url(..//img/bg2.png);
     background-repeat: repeat;
     background-size: 120px auto; }
   
