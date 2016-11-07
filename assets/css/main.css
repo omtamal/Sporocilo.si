@@ -284,6 +284,15 @@ body {
   align-items: center;
 }
 
+.mail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-style: normal;
+  font-size: 12px
+}
+
 .centering {
   height: 100vh;
   display: flex;
