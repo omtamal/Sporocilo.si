@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i&subset=latin-ext');
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext,latin);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
+@import 'https://fonts.googleapis.com/css?family=Rasa:500,600&subset=latin-ext';
 html {
   font-family: 'Playfair Display', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -265,7 +266,7 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background-image: url(..//img/bg.png);
+  background-image: url(..//img/bg2.png);
   background-repeat: repeat;
   background-size: 100px auto;
   font-size: 14px;
@@ -300,7 +301,7 @@ body {
 
 @media (max-width: 1200px) {
   body {
-    background-image: url(..//img/bg.png);
+    background-image: url(..//img/bg2.png);
     background-repeat: repeat;
     background-size: 120px auto; }
   
@@ -326,9 +327,9 @@ body {
 } }
 
 
-@media (max-width: 540px) {
+@media (max-width: 360px) {
   body {
-    background-image: url(..//img/bg.png);
+    background-image: url(..//img/bg2.png);
     background-repeat: repeat;
     background-size: 120px auto; }
   
