@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i&subset=latin-ext');
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext,latin);
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
-@import 'https://fonts.googleapis.com/css?family=Rasa:500,600&subset=latin-ext';
+
 html {
   font-family: 'Playfair Display', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -14,7 +12,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
   display: block; }
 
 body {
-  background-image: url(..//img/af-25%.jpg);
+  background-image: url(..//img/af-25.jpg);
   background-size: cover;
   background-position: center;
   font-size: 14px;
