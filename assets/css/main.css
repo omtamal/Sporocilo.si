@@ -40,7 +40,8 @@ body {
 }
 
 .sporocilo {
-  align-self: flex-end;
+  margin-bottom: 30px;
+  line-height: 1.2;
   width: 100%;
 }
 
